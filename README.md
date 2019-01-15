@@ -1,2 +1,2 @@
 # turmajava
-Repositório de teste PMC2
+Repositório de teste para a turma da Academia Java
